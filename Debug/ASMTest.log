@@ -1,0 +1,2 @@
+﻿  calculate.cpp
+C:\Users\USER\source\repos\ASMTest\ASMTest\calculate.cpp(5,3): error C2400: '첫째 피연산자'에 인라인 어셈블러 구문 오류가 있습니다. 'register'을(를) 찾았습니다.
