@@ -8,5 +8,9 @@ public:
 };
 class Calculate {
 public:
-	void Calculate_(unsigned char u,unsigned* a, unsigned* b);
+	void Add(unsigned* a, unsigned* b);
+	void Sub(unsigned* a, unsigned* b);
+	//void Mul(unsigned* a, unsigned* b);
+	//void Div(unsigned* a, unsigned* b);
+	//void Mod(unsigned* a, unsigned* b);
 };
